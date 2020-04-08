@@ -1,0 +1,10 @@
+If you are using the modern flask run command, none of the options to app.run are used. To disable the reloader completely, pass --no-reload:
+
+FLASK_DEBUG=1 flask run --no-reload
+Also, __name__ == '__main__' will never be true because the app isn't executed directly. Use the same ideas from Martijn's answer, except without the __main__ block.
+
+if os.environ.get('WERKZEUG_RUN_MAIN') != 'true':
+    # do something only once, before the reloader
+
+if os.environ.get('WERKZEUG_RUN_MAIN') == 'true':
+    # do something each reload
