@@ -9,6 +9,7 @@ Pandas
 
 Visualiation tools 
 https://python-visualization.github.io/folium/quickstart.html
+https://github.com/plotly/plotly.py/blob/master/doc/python/choropleth-maps.md colorpath 
 Image process 
 
 *** https://github.com/rmotr/ml-workshop-image-recognition
