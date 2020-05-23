@@ -23,6 +23,8 @@ What is AWS CloudFormation?
 What is AWS CodePipeline?
 Creating a Chatbot Application    
 
+********************https://medium.com/towards-artificial-intelligence
+
 🔹Edureka AWS Tutorial Playlist: https://goo.gl/9fQX6J
 🔹Edureka AWS Blog List: https://bit.ly/3b3vb6Q
 
