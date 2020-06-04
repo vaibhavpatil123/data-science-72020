@@ -1,0 +1,6 @@
+Vaex is a Python library that makes working with such large datasets a breeze
+
+Vaex is a Python library that makes working with such large datasets a breeze. In addition to memory-mapping, it will never touch or copy the data unless explicitly requested. This makes it possible to work with datasets that are the size of your hard drive. Furthermore, it does lazy computations, works with virtual columns, does efficient data cleansing, computes fast N-dimensional statistics, creates
+
+https://towardsdatascience.com/vaex-out-of-core-dataframes-for-python-and-fast-visualization-12c102db044a
+
