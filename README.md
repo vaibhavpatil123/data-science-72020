@@ -4,6 +4,10 @@ My data scieance codebase which can useful to quick start in ML
 Concurent programmig with python 
 https://sdiehl.github.io/gevent-tutorial/#spawning-greenlets
 
+GOOD ONE -------------------------------------*
+https://www.datasciencelearner.com/levels-of-measurements-basics/
+
+GOOD ONE -------------------------------------
 Tools 
 Pandas
 
