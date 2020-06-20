@@ -22,6 +22,7 @@ Type Error2 - accepted null hpythosis in testing - its civiour
 >Alph1 -Type1 error
 >Beta -Type2 error - Power of test 
 >Level of signifcance 
+> Z-test ,T-test ,Chi-Sequare
 
 Confusion matrix
 http://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
