@@ -14,6 +14,9 @@ Pandas
 
 ## https://stattrek.com/online-calculator/chi-square.aspx
 
+
+# https://github.com/yug95/MachineLearning Examples 
+
 Visualiation tools 
 https://python-visualization.github.io/folium/quickstart.html
 https://github.com/plotly/plotly.py/blob/master/doc/python/choropleth-maps.md colorpath 
