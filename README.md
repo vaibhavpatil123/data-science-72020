@@ -12,6 +12,8 @@ Tools
 Pandas
 # https://www.video-tutor.net/
 
+## https://stattrek.com/online-calculator/chi-square.aspx
+
 Visualiation tools 
 https://python-visualization.github.io/folium/quickstart.html
 https://github.com/plotly/plotly.py/blob/master/doc/python/choropleth-maps.md colorpath 
