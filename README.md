@@ -10,6 +10,7 @@ https://www.datasciencelearner.com/levels-of-measurements-basics/
 GOOD ONE -------------------------------------
 Tools 
 Pandas
+# https://www.video-tutor.net/
 
 Visualiation tools 
 https://python-visualization.github.io/folium/quickstart.html
