@@ -17,6 +17,9 @@ Pandas
 
 # https://github.com/yug95/MachineLearning Examples 
 
+NLP 
+# https://www.youtube.com/watch?v=xvqsFTUsOmc
+
 Visualiation tools 
 https://python-visualization.github.io/folium/quickstart.html
 https://github.com/plotly/plotly.py/blob/master/doc/python/choropleth-maps.md colorpath 
