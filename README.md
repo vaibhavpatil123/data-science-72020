@@ -1,6 +1,8 @@
 # Data-science-72020
 My data scieance codebase which can useful to quick start in ML
 
+All good one 
+https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2 #
 Concurent programmig with python 
 https://sdiehl.github.io/gevent-tutorial/#spawning-greenlets
 
