@@ -3,6 +3,8 @@ My data scieance codebase which can useful to quick start in ML
 
 All good one 
 https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2 #
+
+# # https://www.kdnuggets.com/2018/05/general-approaches-machine-learning-process.html 7 ML steps
 Concurent programmig with python 
 https://sdiehl.github.io/gevent-tutorial/#spawning-greenlets
 
