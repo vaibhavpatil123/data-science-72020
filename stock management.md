@@ -1,1 +1,3 @@
 https://medium.com/@dhillon_81/machine-learning-a-solution-to-backorder-problem-and-inventory-optimisation-93ff6fcdc69
+
+For any business, the worst scenario is getting out of product inventory when customers are ready to buy your product. Keeping a stock of every item in store is another burden to carry for every business. This trade off has been even more problematic in current times, when manufacturing firms are flooding with SKUs (Stock Keeping Unit) ranging from product sizes, flavours, styles etc. To cater personalised demand companies are customising products by adding various features to it & this is making life even more complex for all parts of businesses involved in the whole supply chain.
