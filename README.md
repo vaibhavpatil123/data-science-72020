@@ -16,6 +16,8 @@ Tools
 Pandas
 # https://www.video-tutor.net/
 
+# end to end example https://www.kaggle.com/sshuri/space-missions-eda-using-matplotlib-and-plotly 
+
 ## https://stattrek.com/online-calculator/chi-square.aspx
 
 
