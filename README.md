@@ -12,6 +12,9 @@ GOOD ONE -------------------------------------*
 https://www.datasciencelearner.com/levels-of-measurements-basics/
 
 GOOD ONE -------------------------------------
+
+# https://www.aitimejournal.com/author/admond-lee
+
 Tools 
 Pandas
 # https://www.video-tutor.net/
