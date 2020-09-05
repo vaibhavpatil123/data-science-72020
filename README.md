@@ -1,6 +1,15 @@
 # Data-science-72020
 My data scieance codebase which can useful to quick start in ML
 
+--------------------------------------------------------------
+i LIKE MOST 
+https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html 
+
+GOOGLE FREE EDUTION TRANNINGS
+https://ai.google/education/
+
+---------------------------------------------------------------
+
 All good one 
 https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2 #
 
