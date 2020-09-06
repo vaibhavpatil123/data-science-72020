@@ -8,6 +8,7 @@ https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-eboo
 GOOGLE FREE EDUTION TRANNINGS
 https://ai.google/education/
 
+https://mlcourse.ai/
 ---------------------------------------------------------------
 
 All good one 
