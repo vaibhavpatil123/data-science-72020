@@ -10,7 +10,9 @@ https://ai.google/education/
 
 https://mlcourse.ai/
 ---------------------------------------------------------------
-
+MIND MAP tool
+## one view for all https://github.com/dformoso/machine-learning-mindmap
+-------------------------------------------------
 All good one 
 https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2 #
 
