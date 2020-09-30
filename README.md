@@ -5,6 +5,7 @@ My data scieance codebase which can useful to quick start in ML
 i LIKE MOST 
 https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html 
 
+# https://github.com/catalyst-team/catalyst#minimal-examples Good small examples ****************************************
 GOOGLE FREE EDUTION TRANNINGS
 https://ai.google/education/
 
